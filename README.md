@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simonberhane
 - 👀 I’m interested in ...  software development 
-- 🌱 I’m currently learning ...java script
-- 💞️ I’m looking to collaborate on ... java script 
+- 🌱 I’m currently learning ...python 
+- 💞️ I’m looking to collaborate on ... data analytics projects  
 - 📫 How to reach me ...
 
 <!---
